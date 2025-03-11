@@ -13,7 +13,7 @@ Fun Fact: I can solve a Rubik's cube in under 1 minutes!
 ## Recent Projects
 - **[PLNL](https://github.com/yhli/PLNL)**: Official PyTorch Implementation for the ICLR 25' paper - Complementary Label Learning with Positive Label Guessing and Negative Label Enhancement.
 
-![Yuhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhli-ml&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
+<!--![Yuhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhli-ml&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)-->
 
 <!--[![Yuhang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yhli-ml)](https://github.com/yhli-ml/github-readme-stats)-->
 

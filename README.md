@@ -1,6 +1,6 @@
 # Yuhang Li
 
-My primary research interest at present is weakly supervised learning, long-tailed learning, trustworthy machine learning.
+My current research focuses on weakly supervised learning, long-tailed learning, and trustworthy machine learning.
 
 Fun Fact: I can solve a Rubik's cube in under 1 minutes!
 

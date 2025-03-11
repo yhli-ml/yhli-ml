@@ -1,6 +1,6 @@
 # Yuhang Li
 
-My current research interests includes but not are limited to weakly-supervised learning, long-tailed learning, and trustworthy machine learning.
+My current research interests include but not are limited to weakly-supervised learning, long-tailed learning, and trustworthy machine learning.
 
 Fun Fact: I can solve a Rubik's cube in under 1 minutes!
 

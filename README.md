@@ -17,7 +17,7 @@ Fun Fact: I can solve a Rubik's cube in under 1 minutes!
 
 <!--[![Yuhang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yhli-ml)](https://github.com/yhli-ml/github-readme-stats)-->
 
-![Profile Views](https://komarev.com/ghpvc/?username=yhli-ml&color=blue&base=200)
+![Profile Views](https://komarev.com/ghpvc/?username=yhli-ml&color=blue)
 
 ## Connect with Me
 - **Email:** [yuhangli@seu.edu.cn](mailto:yuhangli@seu.edu.cn)

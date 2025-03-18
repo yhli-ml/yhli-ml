@@ -19,7 +19,16 @@ Fun Fact: I can solve a Rubik's cube in under 1 minutes!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yhli-ml&color=blue)
 
-<img src="https://wakatime.com/share/@1c37f4b6-0e23-4f22-8a33-28d3cc113867/71153f6d-5fb3-4412-ac15-160d4389a433.svg" width="400" alt="Coding Activity"> <img src="https://wakatime.com/share/@1c37f4b6-0e23-4f22-8a33-28d3cc113867/d06c2e61-aa33-4c92-b9fb-32e578935750.svg" width="400" alt="Language Breakdown">
+<details>
+  <summary><b>📊 Weakly Coding Statistics</b> (Click to open)</summary>
+  <br>
+  
+  ### 编程时长统计
+  <img src="https://wakatime.com/share/@1c37f4b6-0e23-4f22-8a33-28d3cc113867/4f5356b4-5bb5-45de-b792-82fcd9a015c2.svg" width="400" alt="Coding Activity">
+  
+  ### 编程语言分布
+  <img src="https://wakatime.com/share/@1c37f4b6-0e23-4f22-8a33-28d3cc113867/b07c0ae2-0f36-4477-8517-7c0ed85714ca.svg" width="400" alt="Language Breakdown">
+</details>
 
 ## Connect with Me
 - **Email:** [yuhangli@seu.edu.cn](mailto:yuhangli@seu.edu.cn)

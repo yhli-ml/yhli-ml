@@ -19,10 +19,10 @@ Fun Fact: I can solve a Rubik's cube in under 1 minutes!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yhli-ml&color=blue)
 
-<img src="https://wakatime.com/share/@1c37f4b6-0e23-4f22-8a33-28d3cc113867/71153f6d-5fb3-4412-ac15-160d4389a433.svg" width="600" alt="Coding Activity">
+<img src="https://wakatime.com/share/@1c37f4b6-0e23-4f22-8a33-28d3cc113867/71153f6d-5fb3-4412-ac15-160d4389a433.svg" width="200" alt="Coding Activity">
 
 <!-- For language breakdown -->
-<img src="https://wakatime.com/share/@1c37f4b6-0e23-4f22-8a33-28d3cc113867/d06c2e61-aa33-4c92-b9fb-32e578935750.svg" width="600" alt="Language Breakdown">
+<img src="https://wakatime.com/share/@1c37f4b6-0e23-4f22-8a33-28d3cc113867/d06c2e61-aa33-4c92-b9fb-32e578935750.svg" width="200" alt="Language Breakdown">
 
 ## Connect with Me
 - **Email:** [yuhangli@seu.edu.cn](mailto:yuhangli@seu.edu.cn)

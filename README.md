@@ -19,5 +19,8 @@ Fun Fact: I can solve a Rubik's cube in under 1 minutes!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yhli-ml&color=blue)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## Connect with Me
 - **Email:** [yuhangli@seu.edu.cn](mailto:yuhangli@seu.edu.cn)

@@ -22,7 +22,7 @@ Fun Fact: I can solve a Rubik's cube in under 1 minutes!
 <details>
   <summary><b>📊 Weakly Coding Statistics</b> (Click to open)</summary>
   <br>
-  <img src="https://wakatime.com/share/@1c37f4b6-0e23-4f22-8a33-28d3cc113867/4f5356b4-5bb5-45de-b792-82fcd9a015c2.svg" width="400" alt="Coding Activity"> <img src="https://wakatime.com/share/@1c37f4b6-0e23-4f22-8a33-28d3cc113867/b07c0ae2-0f36-4477-8517-7c0ed85714ca.svg" width="400" alt="Language Breakdown">
+  <img src="https://wakatime.com/share/@1c37f4b6-0e23-4f22-8a33-28d3cc113867/45c358bc-a4c9-4565-b9cb-054dbff58424.svg" width="400" alt="Coding Activity"> <img src="https://wakatime.com/share/@1c37f4b6-0e23-4f22-8a33-28d3cc113867/aa4848d9-47dd-43e3-9cef-e53bf35c2992.svg" width="400" alt="Language Breakdown">
 </details>
 
 ## Connect with Me

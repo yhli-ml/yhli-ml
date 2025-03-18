@@ -22,12 +22,7 @@ Fun Fact: I can solve a Rubik's cube in under 1 minutes!
 <details>
   <summary><b>📊 Weakly Coding Statistics</b> (Click to open)</summary>
   <br>
-  
-  ### 编程时长统计
-  <img src="https://wakatime.com/share/@1c37f4b6-0e23-4f22-8a33-28d3cc113867/4f5356b4-5bb5-45de-b792-82fcd9a015c2.svg" width="400" alt="Coding Activity">
-  
-  ### 编程语言分布
-  <img src="https://wakatime.com/share/@1c37f4b6-0e23-4f22-8a33-28d3cc113867/b07c0ae2-0f36-4477-8517-7c0ed85714ca.svg" width="400" alt="Language Breakdown">
+  <img src="https://wakatime.com/share/@1c37f4b6-0e23-4f22-8a33-28d3cc113867/4f5356b4-5bb5-45de-b792-82fcd9a015c2.svg" width="400" alt="Coding Activity"> <img src="https://wakatime.com/share/@1c37f4b6-0e23-4f22-8a33-28d3cc113867/b07c0ae2-0f36-4477-8517-7c0ed85714ca.svg" width="400" alt="Language Breakdown">
 </details>
 
 ## Connect with Me

@@ -19,6 +19,8 @@ Fun Fact: I can solve a Rubik's cube in under 1 minutes!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yhli-ml&color=blue)
 
+[![wakatime](https://wakatime.com/badge/user/1c37f4b6-0e23-4f22-8a33-28d3cc113867.svg)](https://wakatime.com/@1c37f4b6-0e23-4f22-8a33-28d3cc113867)
+
 <details>
   <summary><b>📊 Weakly Coding Statistics</b> (Click to open)</summary>
   <br>

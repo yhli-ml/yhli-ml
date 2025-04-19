@@ -2,7 +2,7 @@
 
 My current research interests include but are not limited to weakly-supervised learning, long-tailed learning, and trustworthy machine learning.
 
-Fun Fact: I can solve a Rubik's cube in under 1 minutes!
+Fun Fact: I can solve a Rubik's cube in under 1 minutes.
 
 ## Tech Stack
 - **Languages:** Python, Bash, C++

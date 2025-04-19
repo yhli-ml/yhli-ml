@@ -4,12 +4,6 @@ I am a master’s student at Southeast University, advised by Professor [Yuheng 
 
 Fun Fact: I can solve a Rubik's cube in under 1 minutes.
 
-## Tech Stack
-- **Languages:** Python, Bash, C++
-- **Frameworks/Tools:** PyTorch
-- **Databases:** MySQL
-- **Other Tools:** Git, Wakatime, VS Code
-
 ## Recent Projects
 - **[PLNL](https://github.com/yhli-ml/PLNL)**: Official PyTorch Implementation for the ICLR 25' paper - *Complementary Label Learning with Positive Label Guessing and Negative Label Enhancement*.
 
@@ -41,6 +35,12 @@ JSON       3 mins          ▒░░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 </details>
+
+## Tech Stack
+- **Languages:** Python, Bash, C++
+- **Frameworks/Tools:** PyTorch
+- **Databases:** MySQL
+- **Other Tools:** Git, Wakatime, VS Code
 
 ## Connect with Me
 - **Email:** [yuhangli@seu.edu.cn](mailto:yuhangli@seu.edu.cn)

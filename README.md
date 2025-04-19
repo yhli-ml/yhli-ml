@@ -30,8 +30,8 @@ From: 19 March 2025 - To: 18 April 2025
 
 Total Time: 16 hrs 8 mins
 
-Python     11 hrs 10 mins  >>>>>>>>>>>>>>-----------   55.85 %
-Other      3 hrs 52 mins   >>>>>--------------------   19.33 %
+Python     11 hrs 10 mins  ██████████████░░░░░░░░░░░   55.85 %
+Other      3 hrs 52 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.33 %
 ```
 
 <!--END_SECTION:waka-->

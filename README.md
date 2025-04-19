@@ -21,7 +21,7 @@ Fun Fact: I can solve a Rubik's cube in under 1 minutes.
 [![wakatime](https://wakatime.com/badge/user/1c37f4b6-0e23-4f22-8a33-28d3cc113867.svg)](https://wakatime.com/@1c37f4b6-0e23-4f22-8a33-28d3cc113867)
 
 <details>
-  <summary><b>📊 Weakly Coding Statistics</b> (Click to open)</summary>
+  <summary><b>📊 Weakly coding breakdown</b> (Click to open)</summary>
   <br>
   <!--START_SECTION:waka-->
 

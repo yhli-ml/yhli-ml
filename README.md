@@ -23,8 +23,8 @@ Fun Fact: I can solve a Rubik's cube in under 1 minutes.
 <details>
   <summary><b>📊 Weakly Coding Statistics</b> (Click to open)</summary>
   <br>
-  <!--LW_STATS_START-->
-  <!--LW_STATS_END-->
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
   <!-- <img src="https://wakatime.com/share/@1c37f4b6-0e23-4f22-8a33-28d3cc113867/45c358bc-a4c9-4565-b9cb-054dbff58424.svg" width="400" alt="Coding Activity"> <img src="https://wakatime.com/share/@1c37f4b6-0e23-4f22-8a33-28d3cc113867/b6be30fc-7f9a-4a73-a0c3-942a193556f2.svg" width="400" alt="Language Breakdown"> -->
 </details>
 

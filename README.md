@@ -45,4 +45,6 @@ JSON       3 mins          ▒░░░░░░░░░░░░░░░░�
 ## Connect with Me
 - **Email:** [yuhangli@seu.edu.cn](mailto:yuhangli@seu.edu.cn)
 
+- **LinkedIn:** [Yuhang Li](https://www.linkedin.com/in/yuhang-li-7782b5361/) 
+
 ![Profile Views](https://komarev.com/ghpvc/?username=yhli-ml&color=blue)

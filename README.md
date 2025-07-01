@@ -1,6 +1,6 @@
 # Yuhang Li
 
-I am a master’s student at Southeast University, advised by Professor [Yuheng Jia](https://jyh-learning.github.io/). My research focuses on **trustworthy machine learning, weakly supervised learning, semi-supervised learning, long-tailed learning**, etc. I aim to enable Al to excel in **learning from imperfect supervision**.
+I am a master’s student at Southeast University, advised by Professor [Yuheng Jia](https://jyh-learning.github.io/). My research focuses on **trustworthy machine learning, weakly supervised learning, semi-supervised learning, long-tailed learning**, etc. I aim to enable Al to excel in **learning from imperfect supervision**, and also provide theoretical insights into the **generalization of machine learning models**.
 
 Fun Fact: I can solve a Rubik's cube in under 1 minutes.
 

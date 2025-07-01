@@ -7,7 +7,7 @@ Fun Fact: I can solve a Rubik's cube in under 1 minutes.
 ## Recent Projects
 - **[IBC](https://github.com/yhli-ml/IBC)**: Official PyTorch implementation for the ICCV 25' paper -- *Boosting Class Representation via Semantically Related Instances for Robust Long-Tailed Learning with Noisy Labels*, namely **IBC**.
 
-- **[PLNL](https://github.com/yhli-ml/PLNL)**: Official PyTorch Implementation for the ICLR 25' paper - *Complementary Label Learning with Positive Label Guessing and Negative Label Enhancement*.
+- **[PLNL](https://github.com/yhli-ml/PLNL)**: Official PyTorch Implementation for the ICLR 25' paper - *Complementary Label Learning with Positive Label Guessing and Negative Label Enhancement*, namely **PLNL**.
 
 <!--![Yuhang's GitHub stats](https://github-readme-stats.vercel.app/api?username=yhli-ml&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)-->
 

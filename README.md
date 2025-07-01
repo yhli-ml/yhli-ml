@@ -36,10 +36,13 @@ Text    0 secs          █▓░░░░░░░░░░░░░░░░�
 </details>
 
 ## Tech Stack
-- **Languages:** Python, Bash, C++
-- **Frameworks/Tools:** PyTorch
-- **Databases:** MySQL
-- **Other Tools:** Git, Wakatime, VS Code
+$\section{\faCogs\ Skills}
+\begin{itemize}[parsep=0.5ex]
+  \item \faGlobe\ Languages: English (IELTS 7.5) -- Advanced; Mandarin -- Native
+  \item \faLaptop\ Programming: \textbf{Proficient} in Python; Familiar with C++, MATLAB, Bash, JavaScript
+  \item \faLinux\ Platforms: \textbf{Experienced} with Linux workstations, VMs
+  \item \faFire\ Tools/Frameworks: PyTorch, Git
+\end{itemize}$
 
 ## Connect with Me
 - **Email:** [yuhangli@seu.edu.cn](mailto:yuhangli@seu.edu.cn)

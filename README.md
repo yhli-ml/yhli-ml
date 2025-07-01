@@ -5,7 +5,7 @@ I am a master’s student at Southeast University, advised by Professor [Yuheng 
 Fun Fact: I can solve a Rubik's cube in under 1 minutes.
 
 ## Recent Projects
-- **[IBC](https://github.com/yhli-ml/IBC)**: Official PyTorch implementation for the ICCV 25' paper -- *Boosting Class Representation via Semantically Related Instances for Robust Long-Tailed Learning with Noisy Labels*, namely **IBC**.
+- **[IBC](https://github.com/yhli-ml/IBC)**: Official PyTorch implementation for the ICCV 25' paper - *Boosting Class Representation via Semantically Related Instances for Robust Long-Tailed Learning with Noisy Labels*, namely **IBC**.
 
 - **[PLNL](https://github.com/yhli-ml/PLNL)**: Official PyTorch Implementation for the ICLR 25' paper - *Complementary Label Learning with Positive Label Guessing and Negative Label Enhancement*, namely **PLNL**.
 

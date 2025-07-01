@@ -44,6 +44,8 @@ Text    0 secs          █▓░░░░░░░░░░░░░░░░�
 ## Connect with Me
 - **Email:** [yuhangli@seu.edu.cn](mailto:yuhangli@seu.edu.cn)
 
+- **CV:** [Yuhang Li](https://drive.google.com/file/d/1WifCJAp_UtDlwYg5ImrVB4p_5cXwZcfs/view?usp=sharing) 
+
 - **LinkedIn:** [Yuhang Li](https://www.linkedin.com/in/yuhang-li-7782b5361/) 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yhli-ml&color=blue)

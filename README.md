@@ -36,7 +36,7 @@ Text    0 secs          █▓░░░░░░░░░░░░░░░░�
 </details>
 
 ## Tech Stack
-\begin{itemize}[parsep=0.5ex]
+$\begin{itemize}[parsep=0.5ex]
   \item \faGlobe\ Languages: English (IELTS 7.5) -- Advanced; Mandarin -- Native
   \item \faLaptop\ Programming: \textbf{Proficient} in Python; Familiar with C++, MATLAB, Bash, JavaScript
   \item \faLinux\ Platforms: \textbf{Experienced} with Linux workstations, VMs

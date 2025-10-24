@@ -23,15 +23,15 @@ Fun Fact: I can solve a Rubik's cube in under 1 minutes.
   <!--START_SECTION:waka-->
 
 ```python
-From: 15 October 2025 - To: 22 October 2025
+From: 16 October 2025 - To: 23 October 2025
 
-Total Time: 2 hrs 16 mins
+Total Time: 4 hrs 33 mins
 
-Python       1 hr 48 mins    ███████████████████░░░░░░   76.52 %
-JSON         12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-Text         12 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
-Other        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-Markdown     1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Python       4 hrs 3 mins    █████████████████████▓░░░   87.00 %
+JSON         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+Text         12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Other        6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->

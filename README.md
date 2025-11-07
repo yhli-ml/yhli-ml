@@ -44,6 +44,8 @@ Bash         0 secs          ░░░░░░░░░░░░░░░░░
 ## Contact
 - **Email:** [yuhangli@seu.edu.cn](mailto:yuhangli@seu.edu.cn) or [albertl06011@gmail.com](mailto:albertl06011@gmail.com)
 
-- **CV:** See more details in my [CV](https://drive.google.com/file/d/1WifCJAp_UtDlwYg5ImrVB4p_5cXwZcfs/view?usp=sharing) 
+- **CV:** See more details in my [CV](https://drive.google.com/file/d/1WifCJAp_UtDlwYg5ImrVB4p_5cXwZcfs/view?usp=sharing)
+
+- **Google Scholar:** [Link](https://scholar.google.com/citations?user=taHXmsoAAAAJ&hl=en)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yhli-ml&color=blue)

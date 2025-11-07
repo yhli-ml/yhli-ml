@@ -18,15 +18,15 @@ I am a master’s student at Southeast University, advised by Professor [Yuheng 
   <!--START_SECTION:waka-->
 
 ```python
-From: 26 June 2025 - To: 03 July 2025
+From: 29 October 2025 - To: 05 November 2025
 
-Total Time: 4 hrs 25 mins
+Total Time: 4 hrs 34 mins
 
-Python       2 hrs 46 mins   ███████████████▓░░░░░░░░░   62.32 %
-Markdown     1 hr 9 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
-Text         14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
-Git Config   10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-Bash         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Python       4 hrs 1 min     ███████████████████▓░░░░░   78.60 %
+Other        32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
+Markdown     27 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->

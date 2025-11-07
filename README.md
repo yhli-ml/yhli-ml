@@ -1,6 +1,6 @@
 # Yuhang Li
 
-I am a master’s student at Southeast University, advised by Professor [Yuheng Jia](https://jyh-learning.github.io/). My research focuses on **weakly supervised learning**.
+I am a final-year master’s student at Southeast University, advised by Professor [Yuheng Jia](https://jyh-learning.github.io/) and Professor [Zhuying Li](https://zhuyingli.info/). My research mainly focuses on **weakly supervised learning**.
 
 ## Recent Projects
 - **[IBC](https://github.com/yhli-ml/IBC)**: Official PyTorch implementation for the ICCV 25' paper - *Boosting Class Representation via Semantically Related Instances for Robust Long-Tailed Learning with Noisy Labels*.

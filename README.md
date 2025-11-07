@@ -1,5 +1,8 @@
-# [Yuhang Li](https://yhli-ml.github.io/) (Personal website is under construction)
+# [Yuhang Li](https://yhli-ml.github.io/)
 
+Note: Personal website is under construction, Please refer to my [CV](https://drive.google.com/file/d/1WifCJAp_UtDlwYg5ImrVB4p_5cXwZcfs/view?usp=sharing) for the latest updates.
+
+## About Me
 I am a final-year master’s student at Southeast University, advised by Professor [Yuheng Jia](https://jyh-learning.github.io/) and Professor [Zhuying Li](https://zhuyingli.info/). My research mainly focuses on **weakly supervised learning**.
 
 ## Recent Projects

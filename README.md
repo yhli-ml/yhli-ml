@@ -36,10 +36,10 @@ CSV        0 secs          ░░░░░░░░░░░░░░░░░�
 
 </details>
 
-## Skills
+## Misc.
 - **Languages:** English (IELTS 7.5) -- Advanced; Mandarin -- Native
-- **Programming:** Python, C++
-- **Tools/Frameworks:** Pytorch
+- **Conference Reviewer**: IEEE MLMC 2025
+- **Journal Reviewer**: IJMLC
 
 ## Contact
 - **Email:** [yuhangli@seu.edu.cn](mailto:yuhangli@seu.edu.cn) or [albertl06011@gmail.com](mailto:albertl06011@gmail.com)

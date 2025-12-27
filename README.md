@@ -10,7 +10,7 @@ I am a final-year master’s student at Southeast University, advised by Profess
 
 - **[PLNL](https://github.com/yhli-ml/PLNL)**: Official PyTorch Implementation for the ICLR 25' paper - *Complementary Label Learning with Positive Label Guessing and Negative Label Enhancement*.
 
-- **[RHTC](https://github.com/yhli-ml/RHTC)**: Official PyTorch Implementation for the paper (under review) - *Robust Long-Tailed Partial Label Learning by Head and Tail Classifier Cooperation*.
+- **[RHTC](https://github.com/yhli-ml/RHTC)**: Official PyTorch Implementation for the paper (under review, so this project is not open-source currently) - *Robust Long-Tailed Partial Label Learning by Head and Tail Classifier Cooperation*.
 
 [![wakatime](https://wakatime.com/badge/user/1c37f4b6-0e23-4f22-8a33-28d3cc113867.svg)](https://wakatime.com/@1c37f4b6-0e23-4f22-8a33-28d3cc113867)
 

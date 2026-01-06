@@ -21,15 +21,15 @@ I am a final-year master’s student at Southeast University, advised by Profess
   <!--START_SECTION:waka-->
 
 ```python
-From: 28 December 2025 - To: 04 January 2026
+From: 29 December 2025 - To: 05 January 2026
 
-Total Time: 11 hrs 31 mins
+Total Time: 8 hrs 58 mins
 
-Python     6 hrs 33 mins   ██████████▒░░░░░░░░░░░░░░   41.84 %
-Bash       4 hrs 10 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.63 %
-Other      4 hrs 9 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.50 %
-YAML       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
-Text       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+Python   4 hrs 51 mins   ███████████░░░░░░░░░░░░░░   43.97 %
+Bash     3 hrs 43 mins   ████████▒░░░░░░░░░░░░░░░░   33.78 %
+Other    2 hrs 4 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.74 %
+YAML     16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
+Text     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
 ```
 
 <!--END_SECTION:waka-->

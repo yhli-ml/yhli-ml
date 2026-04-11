@@ -13,6 +13,7 @@ Final-year master's student at Southeast University, advised by [Yuheng Jia](htt
 - [IBC](https://github.com/yhli-ml/IBC): ICCV 2025. Robust long-tailed learning with noisy labels.
 - [PLNL](https://github.com/yhli-ml/PLNL): ICLR 2025. Complementary label learning.
 - [RHTC](https://github.com/yhli-ml/RHTC): Robust long-tailed partial label learning. Under review.
+- [REBOUND](https://github.com/yhli-ml/REBOUND): Long-tailed learning. Under review.
 
 <details>
   <summary><b>Weekly Development Breakdown</b></summary>

@@ -1,23 +1,24 @@
 # [Yuhang Li](https://yhli-ml.github.io/)
 
-Note: Personal website is under construction, Please refer to my [Résumé](https://drive.google.com/file/d/1WifCJAp_UtDlwYg5ImrVB4p_5cXwZcfs/view?usp=sharing) for the latest updates.
+Final-year master's student at Southeast University, advised by [Yuheng Jia](https://jyh-learning.github.io/). I work on **weakly supervised learning**.
 
-## About Me
-I am a final-year master’s student at Southeast University, advised by Professor [Yuheng Jia](https://jyh-learning.github.io/). My research mainly focuses on **weakly supervised learning**.
+[![CV](https://img.shields.io/badge/CV-111111?style=flat-square&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1WifCJAp_UtDlwYg5ImrVB4p_5cXwZcfs/view?usp=sharing)
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=taHXmsoAAAAJ&hl=en)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yhli-ml)
+[![SEU Email](https://img.shields.io/badge/SEU_Email-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:yuhangli@seu.edu.cn)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:albertl06011@gmail.com)
 
-## Recent Projects
-- **[IBC](https://github.com/yhli-ml/IBC)**: Official PyTorch implementation for the ICCV 25' paper - *Boosting Class Representation via Semantically Related Instances for Robust Long-Tailed Learning with Noisy Labels*.
-
-- **[PLNL](https://github.com/yhli-ml/PLNL)**: Official PyTorch Implementation for the ICLR 25' paper - *Complementary Label Learning with Positive Label Guessing and Negative Label Enhancement*.
-
-- **[RHTC](https://github.com/yhli-ml/RHTC)**: Official PyTorch Implementation for the paper (under review, so this project is not open-source currently) - *Robust Long-Tailed Partial Label Learning by Head and Tail Classifier Cooperation*.
-
-[![wakatime](https://wakatime.com/badge/user/1c37f4b6-0e23-4f22-8a33-28d3cc113867.svg)](https://wakatime.com/@1c37f4b6-0e23-4f22-8a33-28d3cc113867)
+## Selected Projects
+- [IBC](https://github.com/yhli-ml/IBC): ICCV 2025. Robust long-tailed learning with noisy labels.
+- [PLNL](https://github.com/yhli-ml/PLNL): ICLR 2025. Complementary label learning.
+- [RHTC](https://github.com/yhli-ml/RHTC): Robust long-tailed partial label learning. Under review.
 
 <details>
-  <summary><b>📊 Weakly development breakdown</b> (Click to open)</summary>
+  <summary><b>Weekly Development Breakdown</b></summary>
   <br>
-  
+
+  [![WakaTime](https://wakatime.com/badge/user/1c37f4b6-0e23-4f22-8a33-28d3cc113867.svg)](https://wakatime.com/@1c37f4b6-0e23-4f22-8a33-28d3cc113867)
+
   <!--START_SECTION:waka-->
 
 ```python
@@ -36,16 +37,7 @@ Markdown     1 hr 14 mins          █▓░░░░░░░░░░░░░
 
 </details>
 
-## Misc.
-- **Languages:** English (IELTS 7.5) -- Advanced; Mandarin -- Native
-- **Conference Reviewer**: IEEE MLMC 2025
-- **Journal Reviewer**: IJMLC
+## Service
+- Reviewer: IEEE MLMC 2025, IJMLC
 
-## Contact
-- **Email:** [yuhangli@seu.edu.cn](mailto:yuhangli@seu.edu.cn) or [albertl06011@gmail.com](mailto:albertl06011@gmail.com)
-
-- **Résumé:** See more details in my [Résumé](https://drive.google.com/file/d/1WifCJAp_UtDlwYg5ImrVB4p_5cXwZcfs/view?usp=sharing)
-
-- **Google Scholar:** [Link](https://scholar.google.com/citations?user=taHXmsoAAAAJ&hl=en)
-
-![Profile Views](https://komarev.com/ghpvc/?username=yhli-ml&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=yhli-ml&color=blue&style=flat-square)

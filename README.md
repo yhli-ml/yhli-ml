@@ -40,6 +40,6 @@ Markdown       36 mins               ▓░░░░░░░░░░░░░�
 </details>
 
 ## Service
-- Reviewer: JMLR, ICLR 2026, PR, IEEE MLMC 2026, IEEE MLMC 2025, IJMLC
+- Reviewer: TMLR, ICLR 2026, PR, IEEE MLMC 2026, IEEE MLMC 2025, IJMLC
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yhli-ml&color=blue&style=flat-square)

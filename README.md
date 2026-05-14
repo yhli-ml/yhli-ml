@@ -24,15 +24,15 @@ Final-year master's student at Southeast University, advised by [Yuheng Jia](htt
   <!--START_SECTION:waka-->
 
 ```python
-From: 05 May 2026 - To: 12 May 2026
+From: 06 May 2026 - To: 13 May 2026
 
-Total Time: 8 hrs 8 mins
+Total Time: 7 hrs 46 mins
 
-Markdown       5 hrs 9 mins          ███████████▒░░░░░░░░░░░░░   44.95 %
-Other          3 hrs 20 mins         ███████▒░░░░░░░░░░░░░░░░░   29.13 %
-TeX            2 hrs 17 mins         █████░░░░░░░░░░░░░░░░░░░░   19.92 %
-JSON           18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
-Image (svg)    6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Markdown      5 hrs 8 mins          ███████████▓░░░░░░░░░░░░░   47.19 %
+Other         3 hrs 8 mins          ███████▒░░░░░░░░░░░░░░░░░   28.77 %
+TeX           1 hr 23 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
+Text          41 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
+JSON          18 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->

@@ -24,15 +24,15 @@ Final-year master's student at Southeast University, advised by [Yuheng Jia](htt
   <!--START_SECTION:waka-->
 
 ```python
-From: 25 May 2026 - To: 01 June 2026
+From: 27 May 2026 - To: 03 June 2026
 
-Total Time: 4 hrs 39 mins
+Total Time: 3 hrs 14 mins
 
-Markdown       1 hr 15 mins          ██████░░░░░░░░░░░░░░░░░░░   23.77 %
-TeX            1 hr 5 mins           █████░░░░░░░░░░░░░░░░░░░░   20.61 %
-Makefile       38 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-Other          38 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
-SSH Config     35 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
+TeX            54 mins               ██████▒░░░░░░░░░░░░░░░░░░   25.37 %
+Markdown       35 mins               ████▒░░░░░░░░░░░░░░░░░░░░   16.77 %
+SSH Config     35 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.42 %
+Text           31 mins               ███▓░░░░░░░░░░░░░░░░░░░░░   14.62 %
+Other          19 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.25 %
 ```
 
 <!--END_SECTION:waka-->

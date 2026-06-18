@@ -5,13 +5,11 @@ Final-year master's student at Southeast University, advised by [Yuheng Jia](htt
 [![Résumé](https://img.shields.io/badge/Résumé-111111?style=flat-square&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1WifCJAp_UtDlwYg5ImrVB4p_5cXwZcfs/view?usp=sharing)
 [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=taHXmsoAAAAJ&hl=en)
 [![LinkedIn](./assets/linkedin-badge.svg)](https://www.linkedin.com/in/yuhang-li-7782b5361/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yhli-ml)
-[![SEU Email](https://img.shields.io/badge/SEU_Email-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:yuhangli@seu.edu.cn)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:albertl06011@gmail.com)
 
 ## Selected Projects
-- [IBC](https://github.com/yhli-ml/IBC): ICCV 2025. Robust long-tailed learning with noisy labels.
-- [PLNL](https://github.com/yhli-ml/PLNL): ICLR 2025. Complementary label learning.
+- [IBC](https://github.com/yhli-ml/IBC): ICCV 2025 poster. Robust long-tailed learning with noisy labels.
+- [PLNL](https://github.com/yhli-ml/PLNL): ICLR 2025 poster. Complementary label learning.
 
 <details>
   <summary><b>Weekly Development Breakdown</b></summary>

@@ -12,8 +12,6 @@ Final-year master's student at Southeast University, advised by [Yuheng Jia](htt
 ## Selected Projects
 - [IBC](https://github.com/yhli-ml/IBC): ICCV 2025. Robust long-tailed learning with noisy labels.
 - [PLNL](https://github.com/yhli-ml/PLNL): ICLR 2025. Complementary label learning.
-- [RHTC](https://github.com/yhli-ml/RHTC): Robust long-tailed partial label learning. Under review.
-- [REBOUND](https://github.com/yhli-ml/REBOUND): Long-tailed learning. Under review.
 
 <details>
   <summary><b>Weekly Development Breakdown</b></summary>
@@ -40,6 +38,6 @@ CSV           39 mins               █▓░░░░░░░░░░░░�
 </details>
 
 ## Service
-- Reviewer: TMLR, ICLR 2026, PR, IEEE MLMC 2026, IEEE MLMC 2025, IJMLC
+- Reviewer: NeurIPS 2026, ICLR 2026, TMLR, PR, IEEE MLMC 2026, IEEE MLMC 2025, IJMLC
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yhli-ml&color=blue&style=flat-square)

@@ -31,7 +31,7 @@ TeX   2 mins                █████████████████�
 
 </details>
 
-## Service
-- Reviewer: NeurIPS 2026, ICLR 2026, TMLR, PR, IEEE MLMC 2026, IEEE MLMC 2025, IJMLC
+<!-- ## Service
+- Reviewer: NeurIPS 2026, ICLR 2026, TMLR, PR, IEEE MLMC 2026, IEEE MLMC 2025, IJMLC -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yhli-ml&color=blue&style=flat-square)

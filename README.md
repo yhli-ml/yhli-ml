@@ -7,9 +7,9 @@ Incoming Ph.D. student at the University of Tokyo, advised by Professor [Masashi
 [![LinkedIn](./assets/linkedin-badge.svg)](https://www.linkedin.com/in/yuhang-li-7782b5361/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:albertl06011@gmail.com)
 
-## Selected Projects
+<!-- ## Selected Projects
 - [IBC](https://github.com/yhli-ml/IBC): ICCV 2025 poster. Robust long-tailed learning with noisy labels.
-- [PLNL](https://github.com/yhli-ml/PLNL): ICLR 2025 poster. Complementary label learning.
+- [PLNL](https://github.com/yhli-ml/PLNL): ICLR 2025 poster. Complementary label learning. -->
 
 <details>
   <summary><b>Weekly Development Breakdown</b></summary>

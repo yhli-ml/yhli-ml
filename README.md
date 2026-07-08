@@ -20,13 +20,12 @@ Incoming Ph.D. student at the University of Tokyo, advised by Professor [Masashi
   <!--START_SECTION:waka-->
 
 ```python
-From: 29 June 2026 - To: 06 July 2026
+From: 30 June 2026 - To: 07 July 2026
 
-Total Time: 14 mins
+Total Time: 12 mins
 
-SSH Config   6 mins                ████████████░░░░░░░░░░░░░   48.38 %
-Markdown     5 mins                █████████▒░░░░░░░░░░░░░░░   37.03 %
-TeX          2 mins                ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
+SSH Config   6 mins                ██████████████░░░░░░░░░░░   56.64 %
+Markdown     5 mins                ███████████░░░░░░░░░░░░░░   43.36 %
 ```
 
 <!--END_SECTION:waka-->

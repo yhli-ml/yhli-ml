@@ -1,6 +1,6 @@
 # [Yuhang Li](https://yhli-ml.github.io/)
 
-Incoming Ph.D. student at the University of Tokyo, to be advised by Professor [Masashi Sugiyama](https://www.ms.k.u-tokyo.ac.jp/sugi/). See below for more information:
+Incoming Ph.D. student at the University of Tokyo, to be advised by Professor [Masashi Sugiyama](https://www.ms.k.u-tokyo.ac.jp/sugi/).
 
 [![Résumé](https://img.shields.io/badge/Résumé-111111?style=flat-square&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1WifCJAp_UtDlwYg5ImrVB4p_5cXwZcfs/view?usp=sharing)
 [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=taHXmsoAAAAJ&hl=en)

@@ -20,15 +20,15 @@ Incoming Ph.D. student at the University of Tokyo, to be advised by Professor [M
   <!--START_SECTION:waka-->
 
 ```python
-From: 02 August 2026 - To: 09 August 2026
+From: 03 August 2026 - To: 10 August 2026
 
-Total Time: 28 hrs 50 mins
+Total Time: 23 hrs 44 mins
 
-Other        45 hrs 55 mins        ███████████████▒░░░░░░░░░   61.42 %
-Python       17 hrs 37 mins        ██████░░░░░░░░░░░░░░░░░░░   23.58 %
-Bash         5 hrs 21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.16 %
-Markdown     2 hrs 40 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
-JSON         2 hrs 20 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Other        40 hrs 9 mins         ███████████████▓░░░░░░░░░   62.84 %
+Python       15 hrs 54 mins        ██████▒░░░░░░░░░░░░░░░░░░   24.89 %
+Bash         2 hrs 59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Markdown     2 hrs 23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+JSON         1 hr 42 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 ```
 
 <!--END_SECTION:waka-->

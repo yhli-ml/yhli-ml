@@ -23,15 +23,15 @@ I study **reliable machine learning and foundation models**. Currently a researc
   <!--START_SECTION:waka-->
 
 ```python
-From: 06 September 2026 - To: 13 September 2026
+From: 07 September 2026 - To: 14 September 2026
 
-Total Time: 41 hrs 37 mins
+Total Time: 44 hrs 31 mins
 
-Other          47 hrs 23 mins        █████████████▒░░░░░░░░░░░   53.24 %
-Markdown       19 hrs 35 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.01 %
-Python         16 hrs 3 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.04 %
-JSON           3 hrs 49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
-SSH Config     29 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+Other          45 hrs 29 mins        ████████████▓░░░░░░░░░░░░   50.54 %
+Markdown       20 hrs 15 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
+Python         17 hrs 43 mins        █████░░░░░░░░░░░░░░░░░░░░   19.69 %
+JSON           3 hrs 51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+C++            44 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->

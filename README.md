@@ -2,7 +2,7 @@
 
 Ph.D. student at the University of Tokyo, advised by [Masashi Sugiyama](https://www.ms.k.u-tokyo.ac.jp/sugi/).
 
-I study **reliable machine learning and foundation models**. Provisionally selected for the **FY2027 JSPS DC1 fellowship** and **BOOST NAIS**.
+I study **trustworthy machine learning and foundation models**. Provisionally selected for the **FY2027 JSPS DC1 fellowship** and **BOOST NAIS**.
 
 [![Résumé](https://img.shields.io/badge/Résumé-111111?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/yhli-ml/yhli-ml/blob/main/resume/Yuhang_Li_Research_Resume.pdf)
 [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=taHXmsoAAAAJ&hl=en)

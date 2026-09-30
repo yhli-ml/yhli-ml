@@ -1,10 +1,10 @@
 # Yuhang Li
 
-Incoming Ph.D. student at the University of Tokyo (October 2026), Department of Complexity Science and Engineering, Graduate School of Frontier Sciences, to be advised by [Masashi Sugiyama](https://www.ms.k.u-tokyo.ac.jp/sugi/).
+Ph.D. student at the University of Tokyo (October 2026 intake), Department of Complexity Science and Engineering, Graduate School of Frontier Sciences, advised by [Masashi Sugiyama](https://www.ms.k.u-tokyo.ac.jp/sugi/).
 
-I study **reliable machine learning and foundation models**. Currently a research intern in the Theory Research Department, Huawei 2012 Laboratories, working on KV-cache prefetching for LLM inference. Provisionally selected for **BOOST NAIS** (JST-supported); formal appointment pending.
+I study **reliable machine learning and foundation models**. My Huawei 2012 Laboratories internship (Theory Research Department, June–October 2026) focuses on KV-cache prefetching for LLM inference. Provisionally selected for **JSPS DC1 (FY2027)** and **BOOST NAIS (2026)**; formal appointments pending.
 
-[![Résumé](https://img.shields.io/badge/Résumé-111111?style=flat-square&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1WifCJAp_UtDlwYg5ImrVB4p_5cXwZcfs/view?usp=sharing)
+[![Résumé](https://img.shields.io/badge/Résumé-111111?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/yhli-ml/yhli-ml/blob/main/resume/Yuhang_Li_Research_Resume.pdf)
 [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=taHXmsoAAAAJ&hl=en)
 [![LinkedIn](./assets/linkedin-badge.svg)](https://www.linkedin.com/in/yuhang-li-7782b5361/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:albertl06011@gmail.com)

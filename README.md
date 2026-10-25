@@ -23,7 +23,7 @@ I study **trustworthy machine learning and foundation models**. Provisionally se
   <!--START_SECTION:waka-->
 
 ```python
-From: 16 October 2026 - To: 23 October 2026
+From: 17 October 2026 - To: 24 October 2026
 
 Total Time: 2 hrs 34 mins
 

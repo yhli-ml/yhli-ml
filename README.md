@@ -23,14 +23,14 @@ I study **trustworthy machine learning and foundation models**. Provisionally se
   <!--START_SECTION:waka-->
 
 ```python
-From: 24 October 2026 - To: 31 October 2026
+From: 25 October 2026 - To: 01 November 2026
 
-Total Time: 19 hrs 42 mins
+Total Time: 24 hrs 38 mins
 
-Other      60 hrs 12 mins        ███████████████████░░░░░░   75.34 %
-Python     14 hrs 37 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.30 %
-Markdown   4 hrs 48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.02 %
-Text       10 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Other      53 hrs 34 mins        █████████████████░░░░░░░░   68.49 %
+Python     19 hrs 21 mins        ██████▒░░░░░░░░░░░░░░░░░░   24.75 %
+Markdown   4 hrs 58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+Text       13 mins               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 JSON       3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 

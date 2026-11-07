@@ -2,7 +2,7 @@
 
 Ph.D. student at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), advised by [Masashi Sugiyama](https://www.ms.k.u-tokyo.ac.jp/sugi/). I work on trustworthy machine learning and foundation models.
 
-**→ [yhli-ml.github.io](https://yhli-ml.github.io)**
+**Personal homepage:** [yhli-ml.github.io](https://yhli-ml.github.io)
 
 [Scholar](https://scholar.google.com/citations?user=taHXmsoAAAAJ&hl=en) · [Résumé](https://github.com/yhli-ml/yhli-ml/blob/main/resume/Yuhang_Li_Research_Resume.pdf) · [LinkedIn](https://www.linkedin.com/in/yuhang-li-7782b5361/) · [Email](mailto:albertl06011@gmail.com)
 

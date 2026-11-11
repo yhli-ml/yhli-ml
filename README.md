@@ -12,15 +12,15 @@ Ph.D. student at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), advis
 <!--START_SECTION:waka-->
 
 ```python
-From: 03 November 2026 - To: 10 November 2026
+From: 04 November 2026 - To: 11 November 2026
 
-Total Time: 12 hrs
+Total Time: 16 hrs 24 mins
 
-Other        23 hrs 45 mins        ████████████████▓░░░░░░░░   66.43 %
-Python       7 hrs 32 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
-Markdown     3 hrs 13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
-HTML         41 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Git Config   16 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Other        20 hrs 26 mins        ██████████████░░░░░░░░░░░   55.48 %
+Python       10 hrs 55 mins        ███████▒░░░░░░░░░░░░░░░░░   29.65 %
+Markdown     3 hrs 46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
+HTML         41 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Text         21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->

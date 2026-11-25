@@ -12,7 +12,7 @@ Ph.D. student at [The University of Tokyo](https://www.u-tokyo.ac.jp/en/), advis
 <!--START_SECTION:waka-->
 
 ```python
-From: 16 November 2026 - To: 23 November 2026
+From: 17 November 2026 - To: 24 November 2026
 
 Total Time: 21 hrs 7 mins
 
